@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# srv-unibratec-rails-compose
+>>>>>>> dbe4ed2316092208ad5453c3ec8c9b674b8b12c0
